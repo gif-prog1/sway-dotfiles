@@ -1,0 +1,15 @@
+import = ["/home/wick/.config/alacritty/themes/github_dark_high_contrast.toml"]
+
+[font]
+size = 10.0
+
+[font.normal]
+family = "FiraCode Nerd Font"
+style = "Regular"
+
+[window]
+opacity = 1
+
+[window.padding]
+x = 15
+y = 15
